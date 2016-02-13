@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21659" started-at="2016-02-12T23:37:37Z" finished-at="2016-02-12T23:37:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21659" started-at="2016-02-12T23:37:37Z" finished-at="2016-02-12T23:37:59Z">
+      <class name="com.examples.FindingMultipleElements">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:com.examples.FindingMultipleElements@4915a928]" name="testApp" duration-ms="15919" started-at="2016-02-12T15:37:37Z" finished-at="2016-02-12T15:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.examples.FindingMultipleElements@4915a928]" name="TearDown" is-config="true" duration-ms="5720" started-at="2016-02-12T15:37:53Z" finished-at="2016-02-12T15:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.examples.FindingMultipleElements -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
